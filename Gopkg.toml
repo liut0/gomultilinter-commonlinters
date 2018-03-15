@@ -1,0 +1,7 @@
+[prune]
+  go-tests = true
+  unused-packages = true
+
+[[constraint]]
+  name = "github.com/ryanuber/go-license"
+  revision = "3878fc8f33ea4637cf02cf8a0bf926288a246ceb"
